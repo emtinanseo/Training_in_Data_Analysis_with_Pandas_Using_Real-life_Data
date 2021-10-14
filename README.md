@@ -1,4 +1,4 @@
-Title of the project: Training in Data Analysis with Pandas using Real-life Data
+Title of the project: Training in Data Analysis with Pandas Using Real-life Data
 
 Author: Dr. Emtinan Elkhidir Osman https://www.linkedin.com/in/emtinan-elkhidir-osman-646242119/
 
